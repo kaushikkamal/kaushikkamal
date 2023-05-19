@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kaushikkamal
-- 👀 I’m interested in MERN Stack, Android, Flutter, DSA
+- 👀 I’m interested in DSA, MERN Stack, Android, Flutter
 - 🌱 I’m currently learning what I'm interested in...
 - 📫 How to reach me [linkedin.com/kaushik-kb](https://www.linkedin.com/in/kaushik-kb/)
-- 👨🏻‍💻 How to reach me [kaushikkb.netlify.app](http://kaushikkb.netlify.app)
+- 👨🏻‍💻 Portfolio [kaushikkb.netlify.app](http://kaushikkb.netlify.app)
 
 <!---
 kaushikkamal/kaushikkamal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
