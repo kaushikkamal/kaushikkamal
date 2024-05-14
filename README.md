@@ -9,7 +9,7 @@
 
 -   #### 🤝 Let's connect on [_LinkedIn_](https://linkedin.com/in/kaushik-kb)
 
--   #### 👨🏻‍💻 DSA practice [_LeetCode_](https://www.leetcode.com/kaushikkb)
+-   #### 👨🏻‍💻 DSA practice [_LeetCode_](https://leetcode.com/u/kaushik_kb/)
 
 ### 💻 Tech Stack
 
