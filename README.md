@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushik</h1>
 <h3 align="center">I design & develop</h3>
 
--   #### 👨‍💻 All of my projects are available at [_kaushikkb.netlify.app_](https://kaushikkb.netlify.app/)
+-   #### 👨‍💻 All of my projects are available at [_kaushikkb.in_](https://kaushikkb.in/)
 
 -   #### 📫 How to reach me _<kaushikborah777@gmail.com>_
 
