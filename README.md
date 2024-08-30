@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kaushik</h1>
-<h3 align="center">I design & develop</h3>
+<h1 align="center">Hey 👋  I'm Kaushik</h1>
+<h3 align="center">I design & develop 🚀</h3>
 
 -   #### ✍🏻 Author at [_devktech.in_](https://devktech.in/)
 
